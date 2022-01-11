@@ -7,3 +7,4 @@ Test stash!
 Issue 102!
 Cherry-pick test!
 Remote feature test!
+learngit!
