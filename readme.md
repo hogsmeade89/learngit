@@ -5,3 +5,4 @@ Creating a new branch is quick and simple.
 Bug fixed!
 Test stash!
 Issue 102!
+Cherry-pick test!
